@@ -1,7 +1,7 @@
 
-AS = /Users/praveeku/exp/tmp/output/bin/i686-elf-as
-CC = /Users/praveeku/exp/tmp/output/bin/i686-elf-gcc
-CXX = /Users/praveeku/exp/tmp/output/bin/i686-elf-g++
+AS = ${HOME}/opt/cross/bin/i686-elf-as
+CC = ${HOME}/opt/cross/bin/i686-elf-gcc
+CXX = ${HOME}/opt/cross/bin/i686-elf-g++
 
 
 C_SOURCES = 
